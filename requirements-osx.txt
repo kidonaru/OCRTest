@@ -1,0 +1,6 @@
+paddleocr==2.9.1
+paddlepaddle
+pillow
+pydantic
+pandas
+opencv-python
